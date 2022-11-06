@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O calendário para os jogos da copa do mundo de 2022, durante o evento foi ensinado a base para criar os cards com a Data, Seleções e Horarios de forma dinâmica com Javascript.
+O calendário para os jogos da copa do mundo, durante o evento foi ensinado a base para criar os cards com a Data, Seleções e Horarios de forma dinâmica com Javascript.
 
 Pretendo adicionar no futuro as fases de jogos da copa de oitavas, quartas, semi-final e final para treinar todo o conteudo abordado no evento NLW.
 

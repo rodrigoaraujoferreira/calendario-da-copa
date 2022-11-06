@@ -1,6 +1,6 @@
 <h1 align="center"> Calendario Copa do Mundo 2022</h1>
 
-<p>Projeto desenvolvido durante o evento NLW promovido pela Rocketseat para ensino de tecnologia WEB.
+<p>Evento NLW promovido pela Rocketseat para ensino de tecnologia WEB.
 </p>
 
 <br>
